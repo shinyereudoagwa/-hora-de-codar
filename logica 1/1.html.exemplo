@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript 1</title>
+    <script>
+var primeiro_numero=1;
+var segundo_numero=2;
+var nome= "eduarda linda"; //strings
+var titulo= "a maravilha";
+//concateração
+
+var resultado_conta_1=primeiro_numero+segundo_numero;
+
+alert(resultado_conta_1);
+
+    </script>
+</head>
+<body>
+
+    
+</body>
+</html>
+
